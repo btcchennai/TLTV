@@ -2,6 +2,8 @@
 
 #EXTM3U x-tvg-url="https://github.com/mitthu786/tvepg/releases/download/latest/epg.xml.gz"
 
+#EXTINF:-1 group-title="EMBY Tamil Cloud" tvg-logo="",MKP TV
+http://media.7starcloud.com:1935/harimedia/mkptv/playlist.m3u8
 #EXTINF:-1 group-title="EMBY Tamil Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG80573.png",7Star TV
 http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
 #EXTINF:-1 group-title="EMBY Tamil Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG35713.png",Sana TV
