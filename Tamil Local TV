@@ -1,0 +1,534 @@
+#EXTM3U
+
+#EXTM3U x-tvg-url="https://github.com/mitthu786/tvepg/releases/download/latest/epg.xml.gz"
+
+#EXTINF:-1 group-title="EMBY Tamil Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG80573.png",7Star TV
+http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
+#EXTINF:-1 group-title="EMBY Tamil Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG35713.png",Sana TV
+http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
+#EXTINF:-1 group-title="EMBY Tamil Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG43856.png",3Tamil TV
+https://6n3yogbnd9ok-hls-live.5cenEMBYcdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 group-title="EMBY Tamil Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG58756.png",Sharvesh 7Star TV
+http://hdserver.7starcloud.com:1935/sharvesh/live/playlist.m3u8
+#EXTINF:-1 group-title="EMBY Tamil Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG244.png",7STAR PLUS
+http://hdserver.7starcloud.com:1935/live/7starbox/playlist.m3u8
+#EXTINF:-1 group-title="EMBY Tamil Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG39297.png",CTN
+http://hdserver.7starcloud.com:1935/ctn/live/playlist.m3u8
+#EXTINF:-1 group-title="EMBY Tamil Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG99048.png",SS Varma TV
+http://hdserver.7starcloud.com:1935/ssvarmatv/ssvarmatv/playlist.m3u8
+#EXTINF:-1 group-title="EMBY Tamil Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG40848.png",Jawahar TV
+http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
+#EXTINF:-1 group-title="EMBY Tamil Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/",Vani TV
+http://hdserver.7starcloud.com:1935/vanitv/livemedia/playlist.m3u8
+#EXTINF:-1 group-title="EMBY Tamil Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG9905.png",Sana Plus
+http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8
+#EXTINF:-1 group-title="EMBY Tamil Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG91933.png",Ashoka Channel
+http://hdserver.7starcloud.com:1935/ashoka/channel/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG49043.png" group-title="Tamil Cloud",Ashoka Channel 2
+http://hdserver.7starcloud.com:1935/ashoka/channel2/playlist.m3u8
+#EXTINF:-1 group-title="EMBY Tamil Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG32565.png",Shalini TV
+https://gvjygr2jloem-hls-live.5cenEMBYcdn.com/shalini/live.stream/chunks.m3u8
+#EXTINF:-1 group-title="EMBY Tamil Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG84241.png",Srimathi TV
+https://5c75277727cd1.streamlock.net/srimathitv/srimathitv/playlist.m3u8
+#EXTINF:-1 group-title="EMBY Tamil Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG69533.png",Shree TV
+http://hdserver.7starcloud.com:1935/shree/tv/playlist.m3u8
+#EXTINF:-1 group-title="EMBY Tamil Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG3523.png",MK Six
+http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+#EXTINF:-1 group-title="EMBY Tamil Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/",CTN(Connor)
+http://bmlive.net:8000/ctn/ctn/bms.m3u8
+#EXTINF:-1 group-title="EMBY Tamil Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG49462.png",Polimer TV
+http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="EMBY Tamil Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG11646.png",Prakalya TV
+http://7starcloud.com:1935/pragalya/pragalyatv/playlist.m3u8
+#EXTINF:-1 group-title="EMBY Tamil Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG53656.png",SR MUSIX
+http://hdserver.7starcloud.com:1935/srmusix/live/playlist.m3u8
+#EXTINF:-1 group-title="EMBY Tamil Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG66916.png",Isai Saral
+http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
+#EXTINF:-1 group-title="EMBY Tamil Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG26501.png",SS TV
+http://7starcloud.com:1935/live/sstv2/playlist.m3u8
+#EXTINF:-1 group-title="EMBY Tamil Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG47835.png",Sri Krishna TV
+http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
+#EXTINF:-1 group-title="EMBY Tamil Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG76890.png",VAANAVIL TV
+https://6n3yope4d9ok-hls-live.5cenEMBYcdn.com/vaanavil/TV.stream/chunks.m3u8
+#EXTINF:-1 group-title="EMBY Tamil Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG53779.png",MSN TV
+http://media.7starcloud.com:1935/msntv/live/playlist.m3u8
+#EXTINF:-1 group-title="EMBY Tamil Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG74398.png",Sri Krishna TV(T.kode)
+http://7starcloud.com:1935/lotustv/lotustv/playlist.m3u8
+#EXTINF:-1 group-title="EMBY Tamil Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG81454.png",News Plus TV
+http://hdserver.7starcloud.com:1935/newsplus/live/playlist.m3u8
+#EXTINF:-1 group-title="EMBY Tamil Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG18927.png",RCN TV
+https://5c75277727cd1.streamlock.net:443/rcntv/rcntv/playlist.m3u8
+#EXTINF:-1 group-title="EMBY Tamil Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG31950.png",Hari TV
+http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
+#EXTINF:-1 group-title="EMBY Tamil Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/",Anuman TV
+http://media.7starcloud.com:1935/harimedia/anumantv/playlist.m3u8
+#EXTINF:-1 group-title="EMBY Tamil Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG36575.png",Udhayam TV
+http://media.7starcloud.com:1935/harimedia/live3/playlist.m3u8
+#EXTINF:-1 group-title="EMBY Tamil Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/",SIVAN TV
+http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
+#EXTINF:-1 group-title="EMBY Tamil Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG67366.png",IBC BAKTHI
+https://tx1.ibctamil.tv/CDN_IBC_Bhakthi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="EMBY Tamil Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/",IBC SILUVAI
+https://tx1.ibctamil.tv/CDN_IBC_Siluvai/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="EMBY Tamil Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG57807.png",Isai Aruvi
+http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
+#EXTINF:-1 group-title="EMBY Tamil Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG93564.png",Moon TV
+https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8
+#EXTINF:-1 group-title="EMBY Tamil Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG51760.png",IBC CANADA
+https://tx1.ibctamil.tv/CDN_IBC_Canada/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="EMBY Tamil Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG43539.png",IBC TAMIL
+https://tx1.ibctamil.tv/CDN_IBC_Tamil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="EMBY Tamil Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG18482.png",IBC COMEDY
+https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="EMBY Tamil Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG39050.png",IBC MUSIC
+https://tx1.ibctamil.tv/CDN_IBC_Isai/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="EMBY Tamil Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG40826.png",TVI HD
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+#EXTINF:-1 group-title="EMBY Tamil Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG49141.png",SHAKTHI TV
+http://88.150.197.10:1935/star-live/shakthi/chunklist.m3u8
+#EXTINF:-1 group-title="EMBY Tamil Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG71898.png",Athavan TV
+http://45.77.66.224:1935/athavantv/live_360p/chunklist.m3u8
+#EXTINF:-1 group-title="EMBY Tamil Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/",KING TV
+http://account26.livebox.co.in/kinghls/live.m3u8
+#EXTINF:-1 group-title="EMBY Tamil Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG36010.png",MK TV
+http://14.199.164.20:4001/play/a0lh/index.m3u8
+#EXTINF:-1 group-title="EMBY Tamil Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/",PC TV
+http://pctv.livebox.co.in/pctvhls/live.m3u8
+#EXTINF:-1 group-title="EMBY Tamil Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG96639.png",GTA TAMIL TV
+http://142.44.213.115:8888/gta_tamil/index.m3u8
+#EXTINF:-1 group-title="EMBY Tamil Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG15109.png",EET TV
+https://live.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - Religion Channel" tvg-logo="https://singamcloud.com/tv/upload/1634613116_20210614_232948.png",Grace TV
+http://hdserver.singamcloud.in:1935/gracetv/gracetv/playlist.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - PLC" tvg-logo="https://singamcloud.com/tv/upload/1634043103_IMG_20211012_181922.jpg",SSR TV
+http://stream.singamcloud.in/ssrhd/ssrhd/index.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - PLC" tvg-logo="https://singamcloud.com/tv/upload/1634022341_AASAI.jpg",AASAI TV
+http://live.singamcloud.in:1935/aasaitv/aasaitv/playlist.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - PLC" tvg-logo="https://singamcloud.com/tv/upload/1633974786_IMG_20211011_232252.jpg",Vedha tv surandai
+http://conference1.livebox.co.in/vedhatvhls/live.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - PLC" tvg-logo="https://singamcloud.com/tv/upload/1632211736_Easan.png",Eesan tv
+http://139.99.96.93:1935/eesantv/eesantv/playlist.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - Religion Channel" tvg-logo="https://singamcloud.com/tv/upload/1625737733_golden.png",Golden Gospel TV
+http://51.195.220.104/goldengospeltv/goldengospeltv/index.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - Malayalam Channel" tvg-logo="https://singamcloud.com/tv/upload/1625240465_IMG_20210702_210837.jpg",Vismaya News
+http://139.99.96.93:1935/vismayanews/vismayanews/playlist.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - PLC" tvg-logo="https://singamcloud.com/tv/upload/1616159247_icon.png",SINGAM TV
+http://singamcloud.in/singamtv/singamtv/index.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - Music" tvg-logo="https://singamcloud.com/tv/upload/1616232479_kalaiisai.png",Kalai ISAI
+http://singamcloud.in/kalai/kalaiisai/index.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - RASI NETWORK" tvg-logo="https://singamcloud.com/tv/upload/1616232732_rasitv.png",Rasi TV
+http://singamcloud.in:80/rasinetworks/rasitv/index.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - Satellite Channel" tvg-logo="https://singamcloud.com/tv/upload/1622187910_yupp.png",Yupp  thirai
+http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - PLC" tvg-logo="https://singamcloud.com/tv/upload/1616318924_smcv tv.png",SMCV
+http://singamcloud.in/smcvtv/smcvtv/index.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - PLC" tvg-logo="https://singamcloud.com/tv/upload/1616319770_vani plus.png",Vani plus
+http://live.singamcloud.in:1935/vanipluse/vanipluse/playlist.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - PLC" tvg-logo="https://singamcloud.com/tv/upload/1616494049_abm.png",ABM Tv
+http://singamcloud.in/abmtv/abmtv/index.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - SporEMBY" tvg-logo="https://singamcloud.com/tv/upload/1616435679_DD sporEMBY.png",DD SPOREMBY
+http://103.199.161.254/Content/ddsporEMBY/Live/Channel(DDSPOREMBY)/index.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - Satellite Channel" tvg-logo="https://singamcloud.com/tv/upload/1616435151_vasanth.png",Vasanth TV
+http://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/playlist.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f
+#EXTINF:-1 group-title="EMBY Singam Cloud - Satellite Channel" tvg-logo="https://singamcloud.com/tv/upload/1616435069_puthugam.png",Puthuyugam TV
+http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - Satellite Channel" tvg-logo="https://singamcloud.com/tv/upload/1616434316_murasu mus.png",Kalaignar Murasu
+http://103.199.160.85/Content/kalaignarmurasu/Live/Channel(KalaignarMurasu)/index.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - Religion Channel" tvg-logo="https://singamcloud.com/tv/upload/1616434072_asirvatham.png",Aasirvadham TV
+http://199.168.96.106:1935/blessingtv-tamillive/mystream/chunklist_w365086533.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - Religion Channel" tvg-logo="https://singamcloud.com/tv/upload/1616433934_madha.png",Madha TV
+http://103.109.45.5:1935/madhatv/madhatv.stream_HDp/chunklist_w67072347.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - News" tvg-logo="https://singamcloud.com/tv/upload/1616433167_velucham copy.png",Velicham TV
+https://rtmp.smarEMBYtream.video/velichamtv/velichamtv/playlist.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - Satellite Channel" tvg-logo="https://singamcloud.com/tv/upload/1616432667_moon.png",Moon TV
+http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunks.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - Satellite Channel" tvg-logo="https://singamcloud.com/tv/upload/1616432125_mk tv.png",MK TV
+http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - International" tvg-logo="https://singamcloud.com/tv/upload/1616431687_IBC PAKADI.png",IBC Pagadi
+https://tx1.ibctamil.tv/CDN_IBC_Pakidi/index.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - Religion Channel" tvg-logo="https://singamcloud.com/tv/upload/1616431568_IBC siluvai.png",IBC Siluvai
+https://tx1.ibctamil.tv/CDN_IBC_Siluvai/index.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - Music" tvg-logo="https://singamcloud.com/tv/upload/1616431447_IBC isai.png",IBC ISAI
+https://tx1.ibctamil.tv/CDN_IBC_Isai/index.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - Religion Channel" tvg-logo="https://singamcloud.com/tv/upload/1616431352_IBC paki.png",IBC Bakthi
+https://tx1.ibctamil.tv/CDN_IBC_Bhakthi/index.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - International" tvg-logo="https://singamcloud.com/tv/upload/1616431279_ibc tamil con.png",IBC TAMIL Canada
+https://tx1.ibctamil.tv/CDN_IBC_Canada/index.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - International" tvg-logo="https://singamcloud.com/tv/upload/1616430886_IBC TAMIL.png",IBC TAMIL
+https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - PLC" tvg-logo="https://singamcloud.com/tv/upload/1628861175_IMG_20210813_185357.jpg",Tamil Star TV
+http://stream.singamcloud.in/tamilstartv/tamilstartv/index.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - PLC" tvg-logo="https://singamcloud.com/tv/upload/1616333373_kpr tv.png",KRP TV
+http://live.singamcloud.in:1935/krptv/krptv/playlist.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - PLC" tvg-logo="https://singamcloud.com/tv/upload/1616321908_maa tv copy.png",Maa TV
+http://live.singamcloud.in:1935/maatv/maatv/playlist.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - PLC" tvg-logo="https://singamcloud.com/tv/upload/1616321019_hello tv.png",Hello TV
+http://stream.singamcloud.in/hellotv/hellotv/index.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - PLC" tvg-logo="https://singamcloud.com/tv/upload/1616320869_anu tv.png",Anu TV
+http://live.singamcloud.in:1935/anutv/anutv/playlist.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - PLC" tvg-logo="https://singamcloud.com/tv/upload/1616318402_perpole.png",Purple
+http://singamcloud.in/purpletv/purpletv/index.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - PLC" tvg-logo="https://singamcloud.com/tv/upload/1616318214_ttv.png",T TV
+http://singamcloud.in/ttv/ttv/index.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - News" tvg-logo="https://singamcloud.com/tv/upload/1616317832_et.png",ET NOW
+https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - PLC" tvg-logo="https://singamcloud.com/tv/upload/1616306258_yogaa tv.png",Yogaa TV
+http://hdserver.singamcloud.in:1935/yogaatv/yogaatv/playlist.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - News" tvg-logo="https://singamcloud.com/tv/upload/1616305063_news18 tamilnadu.png",NEWS18 TAMILNADU
+http://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="EMBY Singam Cloud - PLC" tvg-logo="https://singamcloud.com/tv/upload/1616305753_kanichi.png",Kanchi tv
+http://198.144.149.82:8080/NOTV/KANCHITV/tracks-v1a1/mono.m3u8?token=GTR
+#EXTINF:-1 group-title="EMBY Singam Cloud - PLC" tvg-logo="https://singamcloud.com/tv/upload/1616306017_jayam tv.png",Jayam Tv Madurai
+http://bmlive.net:8000/jeyamtvhd/jeyamtv/bms.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - RASI NETWORK" tvg-logo="https://singamcloud.com/tv/upload/1616233067_rasi holly.png",Rasi hollywood
+http://singamcloud.in/rasinetworks/rasihollywood/index.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - RASI NETWORK" tvg-logo="https://singamcloud.com/tv/upload/1616232999_rasi music.png",Rasi Movie
+http://singamcloud.in/rasinetworks/rasimovies/index.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - RASI NETWORK" tvg-logo="https://singamcloud.com/tv/upload/1616232914_rasi music.png",Rasi Music
+http://singamcloud.in/rasinetworks/rasimusic/index.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - RASI NETWORK" tvg-logo="https://singamcloud.com/tv/upload/1616232845_rasi tamil.png",Rasi Tamil
+http://singamcloud.in/rasinetworks/rasitamil/index.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - International" tvg-logo="https://singamcloud.com/tv/upload/1622898474_IMG_20210605_183550.jpg",KBO TAMIL
+https://catchup.yuppcdn.net/amazonv2/20/preview/kbo/master/master.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - International" tvg-logo="https://singamcloud.com/tv/upload/1622898529_IMG_20210605_183607.jpg",KBO classic tamil
+https://catchup.yuppcdn.net/amazonv2/20/preview/kboclassic/master/master.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - Malayalam Channel" tvg-logo="https://singamcloud.com/tv/upload/1622645536_IMG_20210602_201956.jpg",TCV
+https://stream.ufworldind.in/tcv/tcv/playlist.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - Satellite Channel" tvg-logo="https://singamcloud.com/tv/upload/1622638376_chithiram.png",Chithiram TV
+http://103.199.161.254/Content/kalaignarchittiram/Live/Channel(KalaignarChittiram)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - Malayalam Channel" tvg-logo="https://singamcloud.com/tv/upload/1622638282_mytv.png",MY TV
+http://bmlive.net:8000/mytvkl/mytvkl/bms.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - Malayalam Channel" tvg-logo="https://singamcloud.com/tv/upload/1622638042_news18.png",News 18 Malayalam
+https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_4_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="EMBY Singam Cloud - Malayalam Channel" tvg-logo="https://singamcloud.com/tv/upload/1622286807_Kaumudy TV.png",Kaumudy
+http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - Malayalam Channel" tvg-logo="https://singamcloud.com/tv/upload/1622286601_kappa.png",Kappa TV
+http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - Music" tvg-logo="https://singamcloud.com/tv/upload/1622286272_mktus.png",MK Tunes
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - Malayalam Channel" tvg-logo="https://singamcloud.com/tv/upload/1622285815_mano.png",Manorama News
+http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - Malayalam Channel" tvg-logo="https://singamcloud.com/tv/upload/1622285594_Kairali.png",Kairali
+http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - Malayalam Channel" tvg-logo="https://singamcloud.com/tv/upload/1622285476_Jaihind TV.png",Jaihind TV
+http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - Malayalam Channel" tvg-logo="https://singamcloud.com/tv/upload/1622285264_Flowers TV.png",Flowers TV
+http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - Malayalam Channel" tvg-logo="https://singamcloud.com/tv/upload/1622285110_DD malayam.png",DD Malayalam
+http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - Malayalam Channel" tvg-logo="https://singamcloud.com/tv/upload/1622284783_Nvision.png",Nvision
+http://live.singamcloud.in:1935/nvision/nvision/playlist.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - Malayalam Channel" tvg-logo="https://singamcloud.com/tv/upload/1622284673_janam tv copy.png",Jeevan tv
+http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - Malayalam Channel" tvg-logo="https://singamcloud.com/tv/upload/1622284492_Amrita TV.png",Amrita TV
+http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - Malayalam Channel" tvg-logo="https://singamcloud.com/tv/upload/1622284368_ASINET.png",Asianet NEWS
+http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - Religion Channel" tvg-logo="https://singamcloud.com/tv/upload/1622282980_swasthik.png",Swasthik TV
+http://swasthiktv.chennaistream.net/swasthiktv/swasthiktvlive/playlist.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - Religion Channel" tvg-logo="https://singamcloud.com/tv/upload/1622282311_life tv.png",Life TV Plus
+http://lifetv.livebox.co.in/lifetvtamilhls/live.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - Satellite Channel" tvg-logo="https://singamcloud.com/tv/upload/1622225613_IMG_20210528_234254.jpg",Polimer Tv
+http://103.199.160.85:80/Content/polimer/Live/Channel(Polimer)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - Music" tvg-logo="https://singamcloud.com/tv/upload/1622176344_mmusic.png",M Music
+https://mntv.livebox.co.in/musichls/live.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - International" tvg-logo="https://singamcloud.com/tv/upload/1622176085_tvi hd.png",TVI HD
+http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - PLC" tvg-logo="https://singamcloud.com/tv/upload/1622175914_MN tv.png",MN TV
+https://mntv.livebox.co.in/mntvhls/mntv.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - International" tvg-logo="https://singamcloud.com/tv/upload/1622175356_Sooriyantv.png",Suriyan Tv
+http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - International" tvg-logo="https://singamcloud.com/tv/upload/1622175194_aathavan tv.png",Athavan tv
+http://45.77.66.224:1935/athavantv/live_360p/chunklist_w305811568.m3u8
+#EXTINF:-1 group-title="EMBY Singam Cloud - International" tvg-logo="https://singamcloud.com/tv/upload/1622174946_aus tamil.png",Aus Tamil
+https://bk7l2pn7dx53-hls-live.5cenEMBYcdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/unnamed (8).png",Aus Tamil tv
+http://198.144.149.82:8080/AUS_TAMIL/index.m3u8?token=GTR
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20210528-WA0001.jpg",Family tv
+https://jctvapp.lanevservices.in/jcfcapp/jctvlive/playlist.m3u8
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20201211-WA0007.jpg",Kcv tv
+http://198.144.149.82:8080/NOTV/KCVTV/index.m3u8?token=GTR
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20220318-WA0002.jpg",KMD TV
+http://account2.livebox.co.in/IMAGESEQUENCEhls/live.m3u8
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/download-1.png",Analai movie
+http://198.144.149.82:8080/ANALAI_MOVIE/index.m3u8?token=GTR
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/images (30).png",Mk tv
+http://103.199.160.85:80/Content/mktv/Live/Channel(MKTV)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/images (6).jpeg",Life tv
+http://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/",Kalvi tv
+http://198.144.149.82:8080/KALVI_GR10/index.m3u8?token=GTR
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20210113-WA0179.jpg",KCV MOVIES
+http://198.144.149.82:8080/NOTV/KCVMOVIE/index.m3u8?token=GTR
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20210409-WA0016.jpg",A9 News
+http://waytv.livebox.co.in/A9newshls/A9news.m3u8
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/montamil_599x98v1.png",Mon Tamil tv
+http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20210113-WA0178.jpg",Dreamz HD
+http://198.144.149.82:8080/NOTV/DREAMHD/index.m3u8?token=GTR
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20210409-WA0017.jpg",WAY TV
+http://waytv.livebox.co.in/waytvhls/waytv.m3u8
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20200909-WA0076.jpg",Faith tv
+http://faithtvlive.livebox.co.in/faithtvhls/live.m3u8
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20210113-WA0180.jpg",Relax tv
+http://198.144.149.82:8080/NOTV/RELAXTV/index.m3u8?token=GTR
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/MS LOGO.png",Music star tv
+http://198.144.149.82:8080/NOTV/MUSICSTARTV/index.m3u8?token=GTR
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/unnamed (9).png",Thirumalai tv
+http://media.7starcloud.com:1935/tirumalaitv/stream/playlist.m3u8
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/Logo Bg_00000.png",Palaru tv
+http://account13.livebox.co.in/palartvhls/live.m3u8
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20200908-WA0124.jpg",Psalm tv
+http://198.144.149.82:8080/NOTV/PSALMTV/index.m3u8?token=GTR
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/",Jay tv
+http://8kguru.tv:8081/rudhramtv1/tvhd/playlist.m3u8
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20201207-WA0003.jpg",Joy tv
+http://joytv.livebox.co.in/joytvhls/live.m3u8
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20210108-WA0020.jpg",THOPHONYTV
+http://198.144.149.82:8080/NOTV/THOPHONYTV/index.m3u8?token=GTR
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/Screenshot_20200922-105004~2.png",J vision tv
+http://198.144.149.82:8080/NOTV/RAMMANTV/index.m3u8?token=GTR
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20191229-WA0002.jpg",Kavin tv
+http://site1.ultramaxnet.com/client/hls/namma-ooru-tv/kavintv/index.m3u8
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/bbbbbbb.png",Sai tv Madurai
+http://198.144.149.82:8080/NOTV/SAITVMD/index.m3u8?token=GTR
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/Final.png",Nine star tv
+http://198.144.149.82:8080/NOTV/NINETV/index.m3u8?token=GTR
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/v tv logo new.png",V TV
+http://198.144.149.82:8080/NOTV/VTV/index.m3u8?token=GTR
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/Screenshot_20200908-234711~2.png",Tamilan tv
+http://media.7starcloud.com:1935/harimedia/live1/playlist.m3u8
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/ezhil gold logo 2.png",Ezhil tv
+http://198.144.149.82:8080/NOTV/EZHILTV/index.m3u8?token=GTR
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20191117-WA0007.jpg",Orange tv
+http://198.144.149.82:8080/NOTV/ORANGETV/index.m3u8?token=GTR
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20211111-WA0038.jpg",QTV
+http://198.144.149.82:8080/NOTV/QTV/index.m3u8?token=GTR
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20211111-WA0008.jpg",MM CLASSIC
+http://198.144.149.82:8080/NOTV/MMCLASSIC/index.m3u8?token=GTR
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20211025-WA0008.jpg",MM TV
+http://198.144.149.82:8080/NOTV/MMTV/index.m3u8?token=GTR
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/Anandha 4k_00031.png",ANANDHA TV
+http://198.144.149.82:8080/NOTV/ANANDHATV/index.m3u8?token=GTR
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/1600504390188_IMG-20191228-WA0026.jpg",Amma tv
+http://site1.ultramaxnet.com/client/hls/namma-ooru-tv/ammatv-123-vdr-VW0gciLY5hWMu-stream/index.m3u8
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/unnamed (13).png",Kanchi tv
+http://198.144.149.82:8080/NOTV/KANCHITV/index.m3u8?token=GTR
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20210615-WA0018.jpg",Shalini tv
+http://198.144.149.82:8080/NOTV/SHALINITV/index.m3u8?token=GTR
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/images - 2020-09-24T110432.747.jpeg",Ragam tv
+http://account12.livebox.co.in/ntvhls/ntv.m3u8
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/kanchi kalnchiyam_00036.png",KANCHI MEDIA
+http://198.144.149.82:8080/NOTV/KANCHIMEDIA/index.m3u8?token=GTR
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/Photo from Media",Vedha tv kanchi
+http://198.144.149.82:8080/NOTV/VEDHAKANCHI/index.m3u8?token=GTR
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/MMTV_00000.png",MM TV
+http://198.144.149.82:8080/NOTV/MMTVKANCHI/index.m3u8?token=GTR
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/Comp JEYSON.png",Jeyson tv
+http://bmlive.net:8000/orange/jeysontv/bms.m3u8
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20201225-WA0345.jpg",Utv
+http://198.144.149.82:8080/NOTV/UTV/index.m3u8?token=GTR
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/Re size JEYAM PLUS Logo.png",Jeyam tv
+http://198.144.149.82:8080/NOTV/JEYAMTVPLUS/index.m3u8?token=GTR
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/JJ Max HD Logo_00017.png",JJ max tv
+http://bmlive.net:8000/orange/jjmax/bms.m3u8
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20201013-WA0058.jpg",Jayam tv
+http://198.144.149.82:8080/NOTV/JAYAMTV/index.m3u8?token=GTR
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/jeevan tv logo png.png",Jeevan tv
+http://198.144.149.82:8080/NOTV/JEEVANTV/index.m3u8?token=GTR
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/Ntv.jpg",N TV
+http://198.144.149.82:8080/NOTV/NTV/index.m3u8?token=GTR
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20211111-WA0007.jpg",KRISHANA TV
+http://198.144.149.82:8080/NOTV/KRISHNATV/index.m3u8?token=GTR
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/ssssssssss copy.png",QMAX TV TVR
+http://198.144.149.82:8080/NOTV/QMAX/index.m3u8?token=GTR
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20211028-WA0008.jpg",GAYATHRI TV
+http://198.144.149.82:8080/NOTV/GAYATHRITV/index.m3u8?token=GTR
+#EXTINF:-1 group-title="EMBY NOTV" tvg-logo="http://nammaoorutv.com/dashboard/upicons/",PAN TV
+http://198.144.149.82:8080/NOTV/PANTV/index.m3u8?token=GTR
+#EXTINF:-1 group-title="EMBY SOUTH - Local" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnZhbm5hbXR2Lm1lZGlhX2FwcF9zY3JlZW5fMV8xNjA3NDk4ODU3XzA2Mg/screen-1.jpg?fakeurl=1&type=.jpg",Vannam TV
+http://remoteiptv.in:1935/vannamtv/vannamtv/playlist.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Local",VIP TV
+http://media.7starcloud.com:1935/harimedia/vip/playlist.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Local" tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1602589132_7music.png",7S Music
+http://103.199.161.254:80/Content/7smusic/Live/Channel(7smusic)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Local" tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1602562799_1597387259_7star copy.jpg",7Star TV
+http://media.7starcloud.com:1935/live/7star/playlist.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Local" tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1622615216_default.png",Amrita TV
+http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Local" tvg-logo="https://i.ytimg.com/vi/UVoBitLcJ6Y/hqdefault_live.jpg",Annai TV
+http://198.144.149.82:8080/NOTV/ANNAITV/index.m3u8?token=GTR
+#EXTINF:-1 group-title="EMBY SOUTH - Local" tvg-logo="https://tavapi.inditechman.com/extras/images/3.png",Apple TV
+http://bmlive.net:8000/appletv/appletv/bms.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Local" tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1602588510_1597395714_athavan copy.jpg",Athavan TV
+http://45.77.66.224:1935/athavantv/live_360p/chunklist_w1302877558.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Local" tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1609644105_austamil.png",Aus Tamil
+https://bk7l2pn7dx53-hls-live.5cenEMBYcdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/playlist.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Local" tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1622615736_default.png",City News
+http://cloud.streamplay.in:1935/citynews/citynews/playlist.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Local" tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1619621749_cnbc-tv18 copy.jpg",CNBC TV18
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_4_av-p.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Local" tvg-logo="https://tavapi.inditechman.com/extras/images/22.png",Digital TV
+http://bmlive.net:8000/digitaltv/digitaltv/bms.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Local" tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1617258979_01.png",Durais TV
+http://media.7starcloud.com:1935/harimedia/duraistv/playlist.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Local" tvg-logo="http://site1.ultramaxnet.com/client/ultramax/images/jayamtv.jpg",Jayam TV TVM
+http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/jayamtvtvm_low/index.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Local" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh2ghdVZCzRB54oKkUak6BW1sgwVzOiYcZeWyy9ZQ=s900-c-k-c0x00ffffff-no-rj",JM TV
+http://198.144.149.82:8080/NOTV/JMTV/index.m3u8?token=GTR
+#EXTINF:-1 group-title="EMBY SOUTH - Local" tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1636799682_kappa.jpg",Kaapa TV
+http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Local" tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1622615319_default.png",Kairali TV
+http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Local" tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1602588376_1597401095_th.jpg",Kalignar TV
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Local" tvg-logo="http://static.ultramaxnet.com/images/kavin_tv_logo.jpeg",Kavin TV
+http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/kavintv_low/index.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Local" tvg-logo="https://play-lh.googleusercontent.com/132rC5tXdkfjCFy1_azsNzqEjIM2uf-Ds5k7B_JmF4mgQiNEO8T3QAuowymB_TNVzg=s180-rw",KAVIN TV
+http://198.144.149.82:8080/NOTV/KAVINTV/index.m3u8?token=GTR
+#EXTINF:-1 group-title="EMBY SOUTH - Local" tvg-logo="https://tavapi.inditechman.com/extras/images/55.png",KKTDC HD
+http://bmlive.net:8000/kktdctv/kktdctv/bms.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Local" tvg-logo="https://content.jdmagicbox.com/comp/coimbatore/y5/0422px422.x422.160803092913.h7y5/catalogue/kovai-tv-sidhapudur-coimbatore-satellite-channels-msnqcnz2v7-250.jpg",Kovai TV
+http://accountapk.livebox.co.in/kovaitvhls/live.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Local" tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1602588401_1597401064_makkal copy.jpg",Makkal TV
+http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Local" tvg-logo="http://static.ultramaxnet.com/images/maya_tv_logo.png",Maya TV
+http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/mayatv_low/index.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Local" tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1602589046_1596464481_mk tunes copy.jpg",MK Tunes
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Local" tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1602563280_1596362261_MK.png",MK TV
+http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Local" tvg-logo="https://tavapi.inditechman.com/extras/images/160.png",Mullai HD
+http://bmlive.net:8000/Raja/rajacbe/bms.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Local" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTOroe9NNojrhfiBvTW_J-xGyX8BUWJvijXodAcaDX32bt3WrWncmhAOcm2Is9jSFIHJY&usqp=CAU",Nakkubetta Ooty TV
+http://nakkubettatv.livebox.co.in/nbtvhls/nbtv.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Local" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG73846.png",Namathu Murasu TV
+http://7starcloud.com:1935/jayathiya/live/playlist.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Local" tvg-logo="https://tavapi.inditechman.com/extras/images/65.png",Neem TV
+http://bmlive.net:8000/NEEMTv/neemlivetv/bms.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Local" tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1596341061_n18.png",News18 Tamil
+http://news18tamil-lh.akamaihd.net:80/i/n18tamil_1@526595/index_5_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="EMBY SOUTH - Local" tvg-logo="https://tavapi.inditechman.com/extras/images/111.png",Penguin TV
+http://bmlive.net:8000/penguintv/penguintv/bms.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Local" tvg-logo="https://play-lh.googleusercontent.com/FCr0acxB9WQpWjoPPNwCxfy8Y9RMSl2Wb4r5DVO-S4FdTzirszD0MHRA46D_o8cuEXxA=s180-rw",Phoenix TV
+http://198.144.149.82:8080/NOTV/PHOENIXTV/index.m3u8?token=GTR
+#EXTINF:-1 group-title="EMBY SOUTH - Local" tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1618036009_poptv%20copy.jpg",POP TV
+http://media.7starcloud.com:1935/harimedia/poptv/playlist.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Local" tvg-logo="http://ambitious.in.net/new/cloudTv/uploads/images/channel_IMG2922.png",Ram Tv
+http://media.7starcloud.com:1935/harimedia/live5/playlist.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Local" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG18927.png",RCN  TV
+https://5c75277727cd1.streamlock.net/rcntv/rcntv/playlist.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Local" tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1622616159_default.png",S Music
+http://uk1.zecast.com:1935/star-live/smusic/index.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Local" tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1597734373_sana.png",Sana TV
+http://7starcloud.com:1935/sanatv/sanatv/platlist.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Local" tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1596971464_Srisankara-tv-logo copy.png",Sankara TV
+http://8noro432dm6g-hls-live.wmncdn.net/Sri/a5518065f47332dad6b509920c827474.sdp/index.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Local" tvg-logo="https://tavapi.inditechman.com/extras/images/89.png",Selfie TV
+http://bmlive.net:8000/selfeetv/selfeetv/bms.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Local" tvg-logo="http://static.ultramaxnet.com/images/sigaram_tv_logo.png?v=1",Sigaram TV
+http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/sigaramtv_low/index.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Local" tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1602563207_1596350761_download (2).jpg",Sirippoli TV
+http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Local" tvg-logo="https://tavapi.inditechman.com/extras/images/124.png",SJS TV
+http://bmlive.net:8000/sjstv/sjstv/bms.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Local" tvg-logo="https://tavapi.inditechman.com/extras/images/153.png",Udhyam TV Nagarcoil
+http://bmlive.net:8000/udhayamtv/udhayamtv/bms.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Local" tvg-logo="http://static.ultramaxnet.com/images/utv_720p_d2.png",Ultra MAX
+http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax_low/index.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Local" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/",Vaagai TV
+http://bmlive.net:8000/sstar/vaagaitvs/bms.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Local",Vaahini TV
+https://5c75277727cd1.streamlock.net/livedemo/livedemo/playlist.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Local" tvg-logo="https://tavapi.inditechman.com/extras/images/109.png",Vasanth TV
+http://bmlive.net:8000/vasanthtvngl/vasanthtvngl/bms.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Local" tvg-logo="https://tavapi.inditechman.com/extras/images/152.png",VIP HD
+http://bmlive.net:8000/gtv/gtv/bms.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Local" tvg-logo="https://tavapi.inditechman.com/extras/images/76.png",Wins TV
+http://bmlive.net:8000/WINS/winstv/bms.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Local" tvg-logo="https://tavapi.inditechman.com/extras/images/87.png",Zara TV
+http://bmlive.net:8000/zaratv/zaratv/bms.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Entertainment" tvg-logo="https://tavapi.inditechman.com/extras/images/kumaritv.webp",Kumari TV
+http://indiamatrix.in/kumaritvnow/kumaritvnow.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Entertainment" tvg-logo="https://cdn.apk-cloud.com/detail/image/nijamtv.nijamtv-w130.png",Nijam TV
+http://nijamtv.indiamatrix.in/nijamtv/nijamtv.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Entertainment" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG59189.png",CAPTAIN TV
+http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Kalaignar_logo.jpg",Kalaignar
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Entertainment" tvg-logo="http://jenohdtv.gq/wp-content/uploads/2019/11/Makkal-TV.png",Makkal TV
+https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/mono.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Entertainment" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG49081.png",Namathu Murasu TV
+http://51.79.158.179:1935/jayathiya/live/playlist.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Entertainment" tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png",Nine Star
+http://198.144.149.82:8080/NOTV/NINETV/tracks-v1a1/mono.m3u8?token=GTR
+#EXTINF:-1 group-title="EMBY SOUTH - Entertainment" tvg-logo="https://i.postimg.cc/nz3JrNxx/sana.png",Sana TV Plus
+http://media.7starcloud.com:1935/live/sanatv2/chunklist_w1956626303.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Movies" tvg-logo="https://tavapi.inditechman.com/extras/images/1622895526_jayatv.png",Jaya Movie
+https://catchup.yuppcdn.net/amazonv2/20/preview/jayamovies/master/master.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Movies" tvg-logo="http://static.ultramaxnet.com/images/thiru_tv_logo.jpeg",Tharun Movies
+http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/tharunmovies_low/index.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Music" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/7s_music.png",7S Music
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Music" tvg-logo="http://jenohdtv.gq/wp-content/uploads/2019/11/Pappers-TV.png",Peppers TV
+http://103.199.160.85/Content/peppers/Live/Channel(Peppers)/index.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Religious" tvg-logo="https://tavapi.inditechman.com/extras/images/1602588077_1596971809_angelcopy.jpg",Angel TV
+https://wowzaprod270-i.akamaihd.net/hls/live/1007388/e7a2aac8/playlist.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Religious" tvg-logo="https://tavapi.inditechman.com/extras/images/2.png",Gospel
+http://bmlive.net:8000/gospeltv/gospeltv/bms.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Religious" tvg-logo="https://tavapi.inditechman.com/extras/images/krubaitv.jpeg",Grace TV Madurai
+https://server2.thewebworld.in:3190/hybrid/play.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Religious" tvg-logo="https://www.livetvcentral.com/imgs/tvs/359.jpg",Heaven TV
+http://209.58.160.179/heaventvhls/live.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Religious" tvg-logo="http://site1.ultramaxnet.com/client/ultramax/images/jeevantv.jpg",Jeevan TV
+http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ammatvvdr_low/index.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Religious" tvg-logo="https://tavapi.inditechman.com/extras/images/jeevaoli.webp",JeevaOli TV
+http://jaeppiyar.livebox.co.in/jeevaolitvhls/live.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Religious" tvg-logo="https://tavapi.inditechman.com/extras/images/21.png",Jesus TV
+http://bmlive.net:8000/jesuschannel/jesuschannel/bms.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Religious" tvg-logo="https://tavapi.inditechman.com/extras/images/161.png",Krubai TV
+http://bmlive.net:8000/kirubaitv/kirubaitv/bms.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Religious" tvg-logo="https://tavapi.inditechman.com/extras/images/1602588047_1596971871_nambikkaicopy.jpg",Nambikkai TV
+http://live.wmncdn.net/nambikkaitv/live.stream/index.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Religious" tvg-logo="https://tavapi.inditechman.com/extras/images/158.png",Samanwaya Vision
+http://bmlive.net:8000/samanwayavision/samanwayavision/bms.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Religious" tvg-logo="https://tavapi.inditechman.com/extras/images/110.png",SMYRNA TV
+http://bmlive.net:8000/smyrnatv/smyrnatv/bms.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Religious" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnlhYWwuVmlubWVlbk11c2ljX3NjcmVlbl81XzE1NzgxNjMyMTZfMDU0/screen-5.jpg?fakeurl=1&type=.jpg",Vinmeen TV
+http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Religious" tvg-logo="https://play-lh.googleusercontent.com/37gkdL86OBpCnX5UYEM1wGAysjV9f9Vi2t9eHH1C49ExL_x_yi2yisJkYRcfjBmnqkri=s100-rw",VVM tv
+http://indiamatrix.in/vvmtv/vvmtv.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - International" tvg-logo="https://i.imgur.com/WfAU7pB.png",3 Tamil TV
+https://6n3yogbnd9ok-hls-live.5cenEMBYcdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - International" tvg-logo="https://i.imgur.com/IgwQ7o5.png",Aathavan TV
+http://45.77.66.224:1935/athavantv/live/playlist.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - International" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/rsz_tamil_vision_international1.jpg",Tamil Vision International
+http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Devotional" tvg-logo="https://tavapi.inditechman.com/extras/images/ayya.webp",Ayya Vaikundar TV
+http://livematrix.in/ayyatv/ayyatv.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Devotional" tvg-logo="http://jenohdtv.gq/wp-content/uploads/2019/11/Sri-Sankara-TV.png",Sri Sankara TV
+https://8noro432dm6g-hls-live.wmncdn.net/Sri/a5518065f47332dad6b509920c827474.sdp/index.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Devotional" tvg-logo="http://jenohdtv.gq/wp-content/uploads/2019/11/SVBC-Tamil.png",SVBC Tamil
+http://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - News" tvg-logo="https://tavapi.inditechman.com/extras/images/1602587859_1598793299_mirrorcopy.jpg",Mirror Now
+http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - News" tvg-logo="https://tavapi.inditechman.com/extras/images/1603524142_1598792353_NDTVcopy.jpg",NDTV
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - News" tvg-logo="https://static.tamil.news18.com/tamil/uploads/2020/03/tamil-1.png",News 18 TAMIL
+https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - News" tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png",News 80
+http://198.144.149.82:8080/NOTV/NEWS80/index.m3u8?token=GTR
+#EXTINF:-1 group-title="EMBY SOUTH - News" tvg-logo="http://jenohdtv.gq/wp-content/uploads/2020/09/Samugam-TV.png",Samugam TV
+https://ca.streamjo.com/live/samugam.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Comedy" tvg-logo="http://jenohdtv.gq/wp-content/uploads/2019/11/Srippoli-TV.png",Sirippoli TV
+http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/index.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - SporEMBY" tvg-logo="https://tavapi.inditechman.com/extras/images/1603524158_1598791651_DD SporEMBYcopy.jpg",DD SporEMBY
+http://103.199.161.254/Content/ddsporEMBY/Live/Channel(DDSPOREMBY)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - SporEMBY",Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Malayalam" tvg-logo="https://tavapi.inditechman.com/extras/images/90.png",KL My TV
+http://bmlive.net:8000/mytvtn/mytv/bms.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Malayalam" tvg-logo="https://tavapi.inditechman.com/extras/images/125.png",Ladhee TV
+http://bmlive.net:8000/ladheetv/ladheetv/bms.m3u8
+#EXTINF:-1 group-title="EMBY SOUTH - Kids" tvg-logo="https://tavapi.inditechman.com/extras/images/CHUTTIGRACETV.png",Chutti Grace TV
+https://server1.thewebworld.in:3465/hybrid/play.m3u8
